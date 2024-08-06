@@ -1,0 +1,4 @@
+pip install protobuf==3.20.*
+pip install streamlit
+pip install tensorflow_io
+streamlit run "C:\Users\Admin\Downloads\Mama_project_final.ipynb"

@@ -45,10 +45,10 @@ The dataset comprises MRI images labeled with the presence or absence of brain t
 To enhance the visual appeal of the `README.md`, include the following screenshots:
 
 1. **Dataset**: Diffrent type of datasets.
-    ![Home Page](path/to/home_page_screenshot.png)
+    ![Home Page](images/1.png)
 
 2. **Prediction Result**: Show the results page with the prediction and additional details.
-    ![Prediction Result](path/to/prediction_result_screenshot.png)
+    ![Prediction Result](images/2.png)
 
 
 
